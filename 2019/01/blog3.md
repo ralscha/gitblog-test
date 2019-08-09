@@ -5,4 +5,4 @@ tags: [java, database]
 title: A new year
 updated: 2019-01-01T06:29:02.130Z
 ---
-Just a test
+Just a test. Another text.
